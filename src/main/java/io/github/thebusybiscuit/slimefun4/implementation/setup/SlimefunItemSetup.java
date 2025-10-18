@@ -561,8 +561,9 @@ public final class SlimefunItemSetup {
                 new SlimefunItemStack(SlimefunItems.GOLD_DUST, oreCrusher.isOreDoublingEnabled() ? 2 : 1).item())
                 .register(plugin);
 
-        new SlimefunItem(itemGroups.resources, SlimefunItems.COPPER_DUST, RecipeType.ORE_WASHER,
-                new ItemStack[] {SlimefunItems.SIFTED_ORE.item(), null, null, null, null, null, null, null, null})
+        new SlimefunItem(itemGroups.resources, SlimefunItems.COPPER_DUST, RecipeType.ORE_CRUSHER,
+                new ItemStack[] {ItemStack(Material.COPPER_ORE), null, null, null, null, null, null, null, null})
+                new SlimefunItemStack(SlimefunItems.COPPER_DUST, oreCrusher.isOreDoublingEnabled() ? 2 : 1).item())
                 .register(plugin);
 
         new SlimefunItem(itemGroups.resources, SlimefunItems.TIN_DUST, RecipeType.ORE_WASHER,
