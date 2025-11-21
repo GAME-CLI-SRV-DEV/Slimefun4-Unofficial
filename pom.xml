@@ -358,7 +358,7 @@
         <dependency>
             <groupId>com.github.GAME-CLI-SRV-DEV.dough</groupId>
             <artifactId>dough-api</artifactId>
-            <version>4353dc4671</version>
+            <version>main-10c343c909-1</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
