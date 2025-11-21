@@ -355,7 +355,7 @@
 
         <!-- Shaded packages -->
         <dependency>
-            <groupId>com.github.baked-libs.dough</groupId>
+            <groupId>com.github.game-cli-srv-dev.dough</groupId>
             <artifactId>dough-api</artifactId>
             <version>f8ff25187d</version>
             <scope>compile</scope>
