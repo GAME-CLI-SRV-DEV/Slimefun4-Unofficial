@@ -356,7 +356,7 @@
         <!-- Shaded packages -->
 
         <dependency>
-            <groupId>com.github.GAME-CLI-SRV-DEV.dough</groupId>
+            <groupId>com.github.game-cli-srv-dev.dough</groupId>
             <artifactId>dough-api</artifactId>
             <version>dough2.0-2328234eae-1</version>
             <scope>compile</scope>
