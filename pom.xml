@@ -360,6 +360,7 @@
             <artifactId>dough-api</artifactId>
             <version>dough2.0-2328234eae-1</version>
             <scope>compile</scope>
+        </dependency>
         <dependency>
             <groupId>io.papermc</groupId>
             <artifactId>paperlib</artifactId>
