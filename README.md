@@ -2,7 +2,8 @@
 *Looking for the download link? [**Click here**](https://github.com/Slimefun/Slimefun4/blob/master/README.md#floppy_disk-download-slimefun-4)*
 
 > [!CAUTION]
-> This Plugin is a Unofficial Release of Slimefun By GAME-CLI-SRV-DEV. on 2025-10-15, Slimefun has Ended it's Final Journey of 12 years. We thanks the former team of [Slimefun](https://github.com/Slimefun) for creating this masterpiece.
+> This Plugin is a Unsupported Unofficial Release of Slimefun By GAME-CLI-SRV-DEV. on 2025-10-15, Slimefun has Ended it's Final Journey of 12 years. We thanks the former team of [Slimefun](https://github.com/Slimefun) for creating this masterpiece.
+> This Plugin is Now Officially Replaced with Slimefun-United.
 > R.I.P Slimefun 4(Original), 2013~2025.
 
 
